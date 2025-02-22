@@ -1,2 +1,2 @@
 # project-play
-project for pratice web
+personal project for pratice web
